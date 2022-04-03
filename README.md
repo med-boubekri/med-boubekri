@@ -2,4 +2,4 @@
 - 🤓 I’m interested in Network Security and Virtualisation.
 - 🌱 I’m currently working on some network security projects as well as the creating and management of virtualized environements.
 - 🤝 I’m looking to collaborate on enterprise network architecture design and network security projects.
-- 📫 reach me on: mohammed0boubekri@gmail.com
+- 📫 Reach me on: mohammed0boubekri@gmail.com
