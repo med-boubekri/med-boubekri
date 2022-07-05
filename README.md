@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @med-boubekri
 - 🤓 I’m interested in Network Security and Virtualisation.
-- 🌱 I’m currently working on some network security projects as well as the creating and management of virtualized environements.
+- 🌱 I’m currently working on some network security projects as well as the creation and management of virtualized environements.
 - 🤝 I’m looking to collaborate on enterprise network architecture design and network security projects.
 - 📫 Reach me on: mohammed0boubekri@gmail.com
